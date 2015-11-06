@@ -4,8 +4,8 @@
 ```html
 <a herf="http://jbt.github.io/markdown-editor">here</a>
 ```
-[here](http://jbt.github.io/markdown-editor) ...
- [see also](https://www.zybuluo.com/mdeditor)https://www.zybuluo.com/mdeditor
+*[here](http://jbt.github.io/markdown-editor) ...
+* [see also](https://www.zybuluo.com/mdeditor) https://www.zybuluo.com/mdeditor
  
 Basic useful feature list:
 
