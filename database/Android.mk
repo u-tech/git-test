@@ -1,0 +1,1 @@
+database=$(call my-dir)

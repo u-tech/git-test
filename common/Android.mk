@@ -1,0 +1,1 @@
+common=$(call my-dir)
